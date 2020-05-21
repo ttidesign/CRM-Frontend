@@ -1,5 +1,5 @@
 {
-    "name": "crm",
+    "name": "CRM-Frontend",
     "version": "0.1.0",
     "private": true,
     "proxy": "https://glacial-sands-49555.herokuapp.com/",
